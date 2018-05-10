@@ -1,6 +1,10 @@
 User-agent: *
-Disallow: /A/B/
-Disallow: /C/
-Disallow: /A/321.jpg
+Disallow: /about/
+Disallow: /assets/
+Disallow: /images/
+Disallow: /README.md
+Disallow: /index.html
+Disallow: /web-read-skill.html
+Disallow: /web-read-skill.jpg
 
 Sitemap: https://luozhaolang.github.io/sitemap.xml
